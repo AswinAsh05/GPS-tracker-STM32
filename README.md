@@ -18,25 +18,25 @@ This repository provides everything required to **study, modify, manufacture, an
 ## 📷 PCB & 3D Model Previews
 
 ### 🔹 3D Model – Front View  
-![3D Front](images/3D front.jpg)
+![3D Front](Images/3D_front.jpg)
 
 ### 🔹 3D Model – Back View  
-![3D Back](images/3D_back.jpg)
+![3D Back](Images/3D_back.jpg)
 
 ---
 
 ### 🔹 PCB Layout – Front Layer  
-![PCB Layout Front Layer](images/PCB_layout(front_layer).jpg)
+![PCB Layout Front Layer](Images/PCB_layout(front_layer).jpg)
 
 ### 🔹 PCB Layout – Back Layer  
-![PCB Layout Back Layer](images/PCB_layout(back_layer).jpg)
+![PCB Layout Back Layer](Images/PCB_layout(back_layer).jpg)
 
 ---
 
 ### 🔹 PCB Layout – Combined View  
-![PCB Layout](images/PCB_layout.jpg)
+![PCB Layout](Images/PCB_layout.jpg)
 
 ---
 
 ### 🔹 Schematic Overview  
-![Schematic](images/Schematic.jpg)
+![Schematic](Images/Schematic.jpg)
